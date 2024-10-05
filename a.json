@@ -1,0 +1,400 @@
+[
+    {
+      "id": 1,
+      "project_name": "4BHK _VIJAY",
+      "project_type": "RESIDENTIAL",
+      "location": "PULIVENDULA",
+      "year": "-",
+      "scope_of_work": "PLANNING",
+      "images": [
+        {
+          "src": "assets/projects/a/1/1.jpg"
+        },
+        {
+            "src": "assets/projects/a/1/2.jpg"
+        }
+      ]
+    },
+    {
+        "id": 2,
+        "project_name": "ASHOKA_ALA_MAISON",
+        "project_type": "RESIDENTIAL",
+        "location": "-",
+        "year": "-",
+        "scope_of_work": "PLANNING,LANDSCAPE",
+        "images": [
+          {
+            "src": "assets/projects/a/2/1.png"
+          },
+          {
+              "src": "assets/projects/a/2/2.png"
+          },
+          {
+            "src": "assets/projects/a/2/3.png"
+          },
+          {
+              "src": "assets/projects/a/2/4.png"
+          }
+        ]
+
+      },
+      {
+        "id": 3,
+        "project_name": "CHARVITHA MEADOWS",
+        "project_type": "RESIDENTIAL",
+        "location": "SIDDIPET",
+        "year": "-",
+        "scope_of_work": "PLANNING,INTERIOR",
+        "images": [
+          {
+            "src": "assets/projects/a/3/1.JPG"
+          },
+          {
+              "src": "assets/projects/a/3/2.JPG"
+          },
+          {
+            "src": "assets/projects/a/3/3.JPG"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "project_name": "FARM HOUSE",
+        "project_type": "RESIDENTIAL",
+        "location": "MANOHARABAD",
+        "year": "-",
+        "scope_of_work": "PLANNING,INTERIOR,LANDSCAPE",
+        "images": [
+          {
+            "src": "assets/projects/a/4/1.JPG"
+          },
+          {
+              "src": "assets/projects/a/4/2.JPG"
+          },
+          {
+            "src": "assets/projects/a/4/3.JPG"
+          },
+          {
+            "src": "assets/projects/a/4/4.JPG"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "project_name": "FARM HOUSE",
+        "project_type": "RESIDENTIAL",
+        "location": "KANUKUNTA",
+        "year": "-",
+        "scope_of_work": "PLANNING,INTERIOR,LANDSCAPE",
+        "images": [
+          {
+            "src": "assets/projects/a/5/9.JPG"
+          },
+          {
+              "src": "assets/projects/a/5/2.JPG"
+          },
+          {
+            "src": "assets/projects/a/5/3.JPG"
+          },
+          {
+            "src": "assets/projects/a/5/4.JPG"
+          },
+          {
+            "src": "assets/projects/a/5/5.JPG"
+          },
+          {
+              "src": "assets/projects/a/5/6.JPG"
+          },
+          {
+            "src": "assets/projects/a/5/7.JPG"
+          },
+          {
+            "src": "assets/projects/a/5/8.JPG"
+          },
+          {
+            "src": "assets/projects/a/5/1.JPG"
+          },
+          {
+              "src": "assets/projects/a/5/10.JPG"
+          },
+          {
+            "src": "assets/projects/a/5/11.JPG"
+          },
+          {
+            "src": "assets/projects/a/5/12.JPG"
+          }
+
+        ]
+      },
+      {
+        "id": 6,
+        "project_name": "FARM HOUSE",
+        "project_type": "RESIDENTIAL",
+        "location": "RAMALINGAMPALLI",
+        "year": "-",
+        "scope_of_work": "PLANNING,LANDSCAPE",
+        "images": [
+          {
+            "src": "assets/projects/a/6/1.JPG"
+          },
+          {
+              "src": "assets/projects/a/6/2.JPG"
+          },
+          {
+            "src": "assets/projects/a/6/3.JPG"
+          },
+          {
+            "src": "assets/projects/a/6/4.JPG"
+          }
+        ]
+      },      
+      {
+        "id": 7,
+        "project_name": "JAIHIND ENCLAVE",
+        "project_type": "COMMERCIAL",
+        "location": "Madhapur",
+        "year": "-",
+        "scope_of_work": "PLANNING,INTERIOR",
+        "images": [
+          {
+            "src": "assets/projects/a/7/3.JPG"
+          },
+          {
+              "src": "assets/projects/a/7/2.JPG"
+          },
+          {
+            "src": "assets/projects/a/7/1.JPG"
+          },
+          {
+            "src": "assets/projects/a/7/4.JPG"
+          },
+          {
+            "src": "assets/projects/a/7/5.JPG"
+          }
+        ]
+      },      
+      {
+        "id": 8,
+        "project_name": "MR.PRASAD REDDY",
+        "project_type": "RESIDENTIAL",
+        "location": "-",
+        "year": "-",
+        "scope_of_work": "PLANNING,INTERIOR",
+        "images": [
+          {
+            "src": "assets/projects/a/8/3.JPG"
+          },
+          {
+              "src": "assets/projects/a/8/2.JPG"
+          },
+          {
+            "src": "assets/projects/a/8/1.JPG"
+          },
+          {
+            "src": "assets/projects/a/8/4.png"
+          },
+          {
+            "src": "assets/projects/a/8/5.png"
+          },
+          {
+            "src": "assets/projects/a/8/6.png"
+          },
+          {
+              "src": "assets/projects/a/8/7.png"
+          },
+          {
+            "src": "assets/projects/a/8/8.png"
+          },
+          {
+            "src": "assets/projects/a/8/9.JPG"
+          },
+          {
+            "src": "assets/projects/a/8/10.JPG"
+          }
+          ,
+          {
+              "src": "assets/projects/a/8/11.JPG"
+          },
+          {
+            "src": "assets/projects/a/8/12.JPG"
+          },
+          {
+            "src": "assets/projects/a/8/13.JPG"
+          },
+          {
+            "src": "assets/projects/a/8/14.JPG"
+          },
+          {
+            "src": "assets/projects/a/8/15.JPG"
+          },
+          {
+              "src": "assets/projects/a/8/16.JPG"
+          },
+          {
+            "src": "assets/projects/a/8/17.JPG"
+          },
+          {
+            "src": "assets/projects/a/8/18.JPG"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "project_name": "Mrs. PADMAJA RESIDENCE ",
+        "project_type": "RESIDENTIAL",
+        "location": "MAYURI NAGAR",
+        "year": "-",
+        "scope_of_work": "PLANNING",
+        "images": [
+          {
+            "src": "assets/projects/a/9/1.JPG"
+          },
+          {
+              "src": "assets/projects/a/9/2.JPG"
+          },
+          {
+            "src": "assets/projects/a/9/3.JPG"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "project_name": "NARASIMHA REDDY",
+        "project_type": "RESIDENTIAL",
+        "location": "-",
+        "year": "-",
+        "scope_of_work": "PLANNING",
+        "images": [
+          {
+            "src": "assets/projects/a/10/1.JPG"
+          },
+          {
+              "src": "assets/projects/a/10/2.JPG"
+          },
+          {
+            "src": "assets/projects/a/10/3.JPG"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "project_name": "PLOT_1014",
+        "project_type": "RESIDENTIAL",
+        "location": "-",
+        "year": "-",
+        "scope_of_work": "PLANNING",
+        "images": [
+          {
+            "src": "assets/projects/a/11/1.JPG"
+          },
+          {
+              "src": "assets/projects/a/11/2.JPG"
+          },
+          {
+            "src": "assets/projects/a/11/3.JPG"
+          },
+          {
+            "src": "assets/projects/a/11/3.JPG"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "project_name": "SANJEEV REDDY",
+        "project_type": "RESIDENTIAL",
+        "location": "-",
+        "year": "-",
+        "scope_of_work": "PLANNING",
+        "images": [
+          {
+            "src": "assets/projects/a/12/1.JPG"
+          },
+          {
+              "src": "assets/projects/a/12/2.JPG"
+          },
+          {
+            "src": "assets/projects/a/12/3.JPG"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "project_name": "TEMPLE",
+        "project_type": "-",
+        "location": "SIDDIPET",
+        "year": "-",
+        "scope_of_work": "PLANNING",
+        "images": [
+          {
+            "src": "assets/projects/a/13/1.JPG"
+          },
+          {
+              "src": "assets/projects/a/13/2.JPG"
+          },
+          {
+            "src": "assets/projects/a/13/3.JPG"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "project_name": "SUBBA REDDY",
+        "project_type": "RESIDENTIAL",
+        "location": "-",
+        "year": "-",
+        "scope_of_work": "PLANNING",
+        "images": [
+          {
+            "src": "assets/projects/a/14/1.JPG"
+          },
+          {
+              "src": "assets/projects/a/14/2.JPG"
+          },
+          {
+            "src": "assets/projects/a/14/3.JPG"
+          },
+          {
+            "src": "assets/projects/a/14/4.JPG"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "project_name": "SUNIL RESIDENCE",
+        "project_type": "RESIDENTIAL",
+        "location": "BANGLORE",
+        "year": "-",
+        "scope_of_work": "PLANNING",
+        "images": [
+          {
+            "src": "assets/projects/a/15/1.JPG"
+          },
+          {
+              "src": "assets/projects/a/15/2.JPG"
+          },
+          {
+            "src": "assets/projects/a/15/3.JPG"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "project_name": "VENKATREDDY",
+        "project_type": "RESIDENTIAL",
+        "location": "ZAHERABAD",
+        "year": "-",
+        "scope_of_work": "PLANNING",
+        "images": [
+          {
+            "src": "assets/projects/a/16/1.JPG"
+          },
+          {
+              "src": "assets/projects/a/16/2.JPG"
+          },
+          {
+            "src": "assets/projects/a/16/3.JPG"
+          }
+        ]
+      }
+
+]

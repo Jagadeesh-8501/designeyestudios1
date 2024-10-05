@@ -1,0 +1,142 @@
+[
+    {
+      "id": 1,
+      "project_name": "ASHOKA_ALA_MAISON",
+      "project_type": "Residential",
+      "location": "-",
+      "year": "-",
+      "scope_of_work": "Planing,Landspace",
+      "images": [
+        {
+          "src": "assets/projects/l/1/3.png"
+        },
+        {
+            "src": "assets/projects/l/1/2.png"
+        },
+        {
+            "src": "assets/projects/l/1/1.png"
+        },
+        {
+            "src": "assets/projects/l/1/4.png"
+        }
+
+      ]
+    },
+    {
+        "id": 2,
+        "project_name": "FARM HOUSE",
+        "project_type": "Residential",
+        "location": "MANOHARABAD",
+        "year": "-",
+        "scope_of_work": "Planing,Landspace",
+        "images": [
+          {
+            "src": "assets/projects/l/2/1.jpg"
+          },
+          {
+              "src": "assets/projects/l/2/2.jpg"
+          },
+          {
+              "src": "assets/projects/l/2/3.jpg"
+          },
+          {
+              "src": "assets/projects/l/2/4.jpg"
+          }
+  
+        ]
+      },
+      {
+        "id": 3,
+        "project_name": "FARM HOUSE",
+        "project_type": "RESIDENTIAL",
+        "location": "KANUKUNTA",
+        "year": "-",
+        "scope_of_work": "PLANNING,INTERIOR,LANDSCAPE",
+        "images": [
+          {
+            "src": "assets/projects/l/3/6.JPG"
+          },
+          {
+              "src": "assets/projects/l/3/2.JPG"
+          },
+          {
+            "src": "assets/projects/l/3/3.JPG"
+          },
+          {
+            "src": "assets/projects/l/3/4.JPG"
+          },
+          {
+            "src": "assets/projects/l/3/5.JPG"
+          },
+          {
+              "src": "assets/projects/l/3/9.JPG"
+          },
+          {
+            "src": "assets/projects/l/3/7.JPG"
+          },
+          {
+            "src": "assets/projects/l/3/8.JPG"
+          },
+          {
+            "src": "assets/projects/l/3/1.JPG"
+          },
+          {
+              "src": "assets/projects/l/3/10.JPG"
+          },
+          {
+            "src": "assets/projects/l/3/11.JPG"
+          },
+          {
+            "src": "assets/projects/l/3/12.JPG"
+          }
+
+        ]
+      },
+      {
+        "id": 4,
+        "project_name": "FARM HOUSE",
+        "project_type": "RESIDENTIAL",
+        "location": "RAMALINGAMPALLI",
+        "year": "-",
+        "scope_of_work": "PLANNING,LANDSCAPE",
+        "images": [
+          {
+            "src": "assets/projects/l/4/3.JPG"
+          },
+          {
+              "src": "assets/projects/l/4/2.JPG"
+          },
+          {
+            "src": "assets/projects/l/4/1.JPG"
+          },
+          {
+            "src": "assets/projects/l/4/4.JPG"
+          }
+        ]
+      },      
+      {
+        "id": 5,
+        "project_name": "JAIHIND ENCLAVE",
+        "project_type": "COMMERCIAL",
+        "location": "Madhapur",
+        "year": "-",
+        "scope_of_work": "PLANNING,INTERIOR",
+        "images": [
+          {
+            "src": "assets/projects/l/5/3.JPG"
+          },
+          {
+              "src": "assets/projects/l/5/2.JPG"
+          },
+          {
+            "src": "assets/projects/l/5/1.JPG"
+          },
+          {
+            "src": "assets/projects/l/5/4.JPG"
+          },
+          {
+            "src": "assets/projects/l/5/5.JPG"
+          }
+        ]
+      }
+]
